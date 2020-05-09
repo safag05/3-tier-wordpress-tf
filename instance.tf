@@ -28,3 +28,4 @@ resource "aws_instance" "instance" {
     Name        = "${var.environment}"
   }
 }
+1
